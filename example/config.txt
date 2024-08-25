@@ -1,0 +1,2 @@
+Prefix plugins/AQMM/example/
+Plugin AQMM inputfile parameters.txt outputfile .

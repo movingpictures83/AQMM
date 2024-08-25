@@ -1,0 +1,4 @@
+dna	AS_metagenome
+rna	AS_metatranscriptome
+metadata	meta_data.txt
+n	12
